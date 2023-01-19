@@ -3,7 +3,7 @@
         "Name": "Avatar",
         "file": "bbb.mp4",
         "thumb": "bbb-th.png",
-        "pic": "bbb.png",
+        "pic": "avatar.jpg",
         "uuid": "380613d5-71b3-4f24-8a58-ca1a260b49d3",
         "type": "film",
         "category": ["action","fantasy"]
@@ -14,7 +14,7 @@
         "Name": "Harry Potter and the Sorcerer's Stone",
         "file": "Cloningaprojectintonetbeans.mp4",
         "thumb": "cloningaprojectintonetbeans-th.png",
-        "pic": "cloningaprojectintonetbeans.png",
+        "pic": "harry-potter-and-the-sorcerer-stone.jpg",
         "uuid": "08d205c9-cc33-4475-ba25-d24ff0426470",
         "type": "film",
         "category": "fantasy"
@@ -25,7 +25,7 @@
         "Name": "The Lord of the Rings: The Fellowship of the Ring",
         "file": "Installingandstartingcassandra-on-mac.mp4",
         "thumb": "installingandstartingcassandra-on-mac-th.png",
-        "pic": "installingandstartingcassandra-on-mac.png",
+        "pic": "the-lord-of-the-rings-the-fellowship-of-the-ring.jpg",
         "uuid": "38a817da-7728-4658-9ecd-44cf638daa81",
         "type": "film",
         "category": ["action","fantasy"]
@@ -36,7 +36,7 @@
         "Name": "Top Gun",
         "file": "Installingandstartingcassandra-on-mac.mp4",
         "thumb": "installingandstartingcassandra-on-mac-th.png",
-        "pic": "installingandstartingcassandra-on-mac.png",
+        "pic": "top-gun.jpg",
         "uuid": "bc9e52f6-2463-417b-a613-5db764094cbd",
         "type": "film",
         "category": "action"
@@ -47,7 +47,7 @@
         "Name": "Chicago Fire",
         "file": "erlang1.mp4",
         "thumb": "erlang1-th.png",
-        "pic": "erlang1.png",
+        "pic": "chicago-fire.jpg",
         "uuid": "45fcbe1d-3f94-4f42-89c4-2972db60c961",
         "type": "show",
         "category": "action"
@@ -58,7 +58,7 @@
         "Name": "The Boys",
         "file": "erlang1.mp4",
         "thumb": "erlang1-th.png",
-        "pic": "erlang1.png",
+        "pic": "the-boys.jpg",
         "uuid": "1583a4b4-a435-4fd4-bc40-3b0b59e5a6d6",
         "type": "show",
         "category": "action"
@@ -69,7 +69,7 @@
         "Name": "Game of Thrones",
         "file": "erlang1.mp4",
         "thumb": "erlang1-th.png",
-        "pic": "erlang1.png",
+        "pic": "game-of-thrones.jpg",
         "uuid": "62041d4b-83a5-4b8d-b36a-d80ae31bc511",
         "type": "show",
         "category": ["action","fantasy"]
@@ -80,7 +80,7 @@
         "Name": "Lost",
         "file": "erlang1.mp4",
         "thumb": "erlang1-th.png",
-        "pic": "erlang1.png",
+        "pic": "lost.jpg",
         "uuid": "fd9aaf41-ad17-40ad-8d60-6cff933c01e8",
         "type": "show",
         "category": "fantasy"
@@ -91,7 +91,7 @@
         "Name": "Castle Rock",
         "file": "erlang1.mp4",
         "thumb": "erlang1-th.png",
-        "pic": "erlang1.png",
+        "pic": "castle-rock.jpg",
         "uuid": "a863dfaa-2352-4659-bb30-c84c314e0e95",
         "type": "show",
         "category": "fantasy"
